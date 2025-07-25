@@ -3,3 +3,15 @@ qwerty
 abcd
 wow .....
 /////
+
+hello its Artur's code bellow
+console.log(dadada)
+console.log(dadada)
+console.log(dadada)
+console.log(dadada)
+console.log(dadada)
+
+
+const a = 4;
+const b = 10;
+console.log (a+b);
